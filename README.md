@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/sammedsagare)
 
-- 📫 How to reach me **[Discord](https://discords.com/bio/p/sam16)**
+- 📫 How to reach me **[Discord](http://discordapp.com/users/533964838041419776)**
 
 
 
