@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammedsagare&label=Profile%20views&color=0e75b6&style=flat" alt="sammedsagare" /> </p>
 
-- 🔭 I’m currently working on **[https://s1s6-bot.ml](S1S6)**
+- 🔭 I’m currently working on **[S1S6](https://s1s6-bot.ml)**
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available [https://github.com/sammedsagare](here)
+- 👨‍💻 All of my projects are available [here](https://github.com/sammedsagare)
 
-- 📫 How to reach me **[https://discords.com/bio/p/sam16](Discord)**
+- 📫 How to reach me **[Discord](https://discords.com/bio/p/sam16)**
 
 
 
