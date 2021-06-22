@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sammed~</h1>
+<h1 align="center">Hi 👋, I'm Sammed</h1>
 <h3 align="center">A newbie developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammedsagare&label=Profile%20views&color=0e75b6&style=flat" alt="sammedsagare" /> </p>
 
-- 🔭 I’m currently working on **[https://s1s6-bot.ml](S1S6 - A Discord Bot)**
+- 🔭 I’m currently working on **[https://s1s6-bot.ml](S1S6)**
 
 - 🌱 I’m currently learning **Python**
 
