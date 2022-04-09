@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammedsagare&label=Profile%20views&color=0e75b6&style=flat" alt="sammedsagare" /> </p>
 
-- 🔭 I’m currently working on **web development**
+- 🔭 I'm currently working as a freelance **web developer**.
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript**.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/sammedsagare)
 
