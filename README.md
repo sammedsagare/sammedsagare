@@ -1,20 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sammed</h1>
-<h3 align="center">A developer from Pune, India.</h3>
+# Hello! I'm Sammed Sagare 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammedsagare&label=Profile%20views&color=0e75b6&style=flat" alt="sammedsagare" /> </p>
+### About Me
+I am a student with a passion for Backend development, blockchain technology, and Artificial Intelligence. My expertise lies in web development, with a focus on Backend Development, and I possess a beginner-level proficiency in Data Structures and Algorithms (DSA). I am deeply interested in Blockchain Technology and AI & DS.
 
-- 🔭 I'm currently working as a freelance **web developer**.
+### Projects
+- 🛰️ **Space Mission:** An immersive educational journey platform, guiding users from space facts to inside a spacecraft. [GitHub Repository](https://github.com/sammedsagare/space-mission-2)
+- 🤖 **S1S6:** A Discord bot used by 1M+ users for seamless interactions. [GitHub Repository](https://github.com/sammedsagare/S1S6)
+- 🚀 **Website under development template:** A template to simplify web development. [GitHub Repository](https://github.com/sammedsagare/Website-Under-Development-Template)
 
-- 🌱 I’m currently learning **Javascript**.
+### Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threepoint&logoColor=white" alt="Three.js">
+</p>
 
-- 👨‍💻 All of my projects are available [here](https://github.com/sammedsagare)
+### GitHub Stats
+![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammedsagare&show_icons=true&theme=radical)
 
-- 📫 How to reach me **[Instagram](https://instagram.com/sammedsagare_)**
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sammedsagare&layout=compact&theme=radical)
 
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=sammedsagare&color=blueviolet)
 
+### Connect with Me
+- [GitHub](https://github.com/sammedsagare)
+- [LinkedIn](https://www.linkedin.com/in/sammedsagare/)
+- [Portfolio](https://sammedsagare.netlify.com/)
+- [Mail](mailto:sammedsagare16@gmail.com)
 
-<br>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammedsagare&show_icons=true&locale=en" alt="sammedsagare" /></p>
+Let's innovate, collaborate, and build the future together! Feel free to explore my projects and get in touch. Happy coding! 😊
