@@ -1,4 +1,4 @@
-### Hello! I'm Sammed Sagare 👋
+## Hello! I'm Sammed Sagare 👋
 
 **About Me**
 
