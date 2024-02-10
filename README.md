@@ -7,7 +7,7 @@ I am a student with a passion for Backend development, blockchain technology, an
 **Projects**
 - 🛰️ **Space Mission:** An immersive educational journey platform, guiding users from space facts to inside a spacecraft using Virtual Reality (VR) [GitHub Repository](https://github.com/sammedsagare/space-mission-2)
 - 🤖 **S1S6:** A Discord bot used by 1M+ users for seamless interactions. [GitHub Repository](https://github.com/sammedsagare/S1S6)
-- 🚀 **linear.app rebuild:** Rebuilt [Linear](https://linear.app/)'s website using NextJS, TailwindCSS, and Framer Motion. [GitHub Repository]([https://github.com/sammedsagare/Website-Under-Development-Template](https://github.com/sammedsagare/nextjs-projects/tree/main/linear_app_rebuild)
+- 🚀 **linear.app rebuild:** Rebuilt [Linear](https://linear.app/)'s website using NextJS, TailwindCSS, and Framer Motion. [GitHub Repository](https://github.com/sammedsagare/nextjs-projects/tree/main/linear_app_rebuild)
 - 🗨️ **promptshare:** A full-stack web app that can be used to share and explore GPT prompts shared by users. Developed using NextJS, and MongoDB. [GitHub Repository](https://github.com/sammedsagare/nextjs-projects/tree/main/promptshare)
 
 **Tech Stack**
