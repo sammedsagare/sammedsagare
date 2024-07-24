@@ -2,7 +2,7 @@
 
 **About Me**
 
-I'm an 18 y/o developer and student. I love to build things that make a difference. I'm currently working on a few projects and learning new things. I'm also a huge fan of open-source and love to contribute to it. I'm always open to new opportunities and collaborations. Feel free to reach out to me!
+I'm a 19 y/o developer and student. I love to build things that make a difference. I'm currently working on a few projects and learning new things. I'm also a huge fan of open-source and love to contribute to it. I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
 **Projects**
 - 🛰️ **Space Mission:** An immersive educational journey platform, guiding users from space facts to inside a spacecraft using Virtual Reality (VR) [GitHub Repository](https://github.com/sammedsagare/space-mission-2)
