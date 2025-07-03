@@ -2,15 +2,26 @@
 
 **About Me**
 
-I'm a 19 y/o developer and student. I love to build things that make a difference. I'm currently working on a few projects and learning new things. I'm also a huge fan of open-source and love to contribute to it. I'm always open to new opportunities and collaborations. Feel free to reach out to me!
+I'm a 19 y/o developer and student. I love to build things that make a difference. I'm currently working on a few projects and learning new things. I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
 **Projects**
-- 🛰️ **Space Mission:** An immersive educational journey platform, guiding users from space facts to inside a spacecraft using Virtual Reality (VR) [GitHub Repository](https://github.com/sammedsagare/space-mission-2)
-- 🤖 **S1S6:** A Discord bot used by 1M+ users for seamless interactions. [GitHub Repository](https://github.com/sammedsagare/S1S6)
-- 🚀 **linear.app rebuild:** Rebuilt [Linear](https://linear.app/)'s website using NextJS, TailwindCSS, and Framer Motion. [GitHub Repository](https://github.com/sammedsagare/nextjs-projects/tree/main/linear_app_rebuild)
-- 🗨️ **promptshare:** A full-stack web app that can be used to share and explore GPT prompts shared by users. Developed using NextJS, and MongoDB. [GitHub Repository](https://github.com/sammedsagare/nextjs-projects/tree/main/promptshare)
+- **Space Mission:** An immersive educational journey platform, guiding users from space facts to inside a spacecraft using Virtual Reality (VR) [GitHub Repository](https://github.com/sammedsagare/space-mission-2)
+- **AI Based Intrusion Detection System:** AI based cybersecurity framework built using metaheuristic feature selection, hybrid DL models, and LLMs for intrusion detection.
+- **Bail Reckoner:** AI-powered tool that assits in the bail process using LLMs, legal chatbots, and IPC/BNS based document mapping.
+- **promptshare:** A full-stack web app that can be used to share and explore GPT prompts shared by users. Developed using NextJS, and MongoDB. [GitHub Repository](https://github.com/sammedsagare/nextjs-projects/tree/main/promptshare)
 
 **Tech Stack**
+
+*LangChain Ecosystem (AI/LLM Tools):*
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-6A1B9A?style=for-the-badge" alt="LangGraph">
+  <img src="https://img.shields.io/badge/LangSmith-006B75?style=for-the-badge" alt="LangSmith">
+  <img src="https://img.shields.io/badge/ChatGroq-FF6D00?style=for-the-badge" alt="ChatGroq">
+  <img src="https://img.shields.io/badge/ChromaDB-FF4081?style=for-the-badge" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/HuggingFace-FCC72E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+</p>
 
 *Backend Development:*
 <p align="center">
@@ -56,4 +67,4 @@ I'm a 19 y/o developer and student. I love to build things that make a differenc
 - [Portfolio](https://www.sammedsagare.com/)
 - [Mail](mailto:sammedsagare@duck.com)
 
-Let's innovate, collaborate, and build the future together! Feel free to explore my projects and get in touch. Happy coding! 😊
+Feel free to explore my projects and get in touch. Happy coding! 
